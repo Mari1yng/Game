@@ -5,7 +5,7 @@
 
 html {
   min-height: 100vh;
-  cursor: url(Assets/Cursors/Ghost.cur), auto;
+  cursor: url(Assets/Cursors/icons8-cursor-100.png), auto;
   font-family: Lunacy;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .card {
   position: relative;
-  cursor: url("Assets/Cursors/GhostHover.cur"), auto;
+  cursor: url("Assets/Cursors/icons8-cursor-100.png"), auto;
   height: 175px;
   width: 125px;
 }
